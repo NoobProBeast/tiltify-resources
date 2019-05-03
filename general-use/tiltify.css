@@ -1,0 +1,106 @@
+/* For everyone to use. Made by NoobProBeast. v1.01 Last changed on 10 April 2019 */
+
+.donation-progress-wrapper .progress-bar-wrapper {
+    width: 100px; /* width of the progress bar */
+}
+
+.donation-title-wrapper .title-card.campaign-name {
+    height: 50px;
+    width: 200px; /* width of your campaign name */
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.donation-ticker-wrapper .donation-name {
+    margin: 0px 10px;
+    line-height: normal;
+    width: 120px; /* donator's name, 120px fits most names */
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.donation-title-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 0;
+    margin-left: 40px; /*increase this to give space between donation goal and campaign name */
+}
+
+.donation-title-wrapper .logo img {
+    margin: 0;
+    margin-left: 40px; /*increase this to give space between campaign name and logo */
+}
+
+.dashboard-wrapper {
+    display: flex;
+}
+
+.donation-progress-wrapper {
+    display: flex;
+}
+
+.donation-title-wrapper .logo {
+    display: flex;
+    align-items: center;
+}
+
+.donation-title-wrapper .charity-name {
+    top: 0;
+    text-align:left;
+}
+
+.donation-title-wrapper .cause-title {
+    top: 0;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.donation-ticker-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    float:none;
+   align-items: center;
+   justify-content: center;
+}
+
+.dashboard-wrapper .donation-card {
+    position: relative;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.dashboard-wrapper .last-donator-title, .dashboard-wrapper .top-donation-title {
+    position: relative;
+    top: 0;
+    right: 0;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    width: 85px;
+    font-size: 13px;
+}
+
+.donation-ticker-wrapper .donation-amount {
+    line-height: normal;
+}
+
+.donation-ticker-wrapper .latest-donation, .donation-ticker-wrapper .top-donation {
+    opacity: 1;
+    display: flex;
+}
+
+.donation-ticker-wrapper .latest-donation {
+    margin-bottom: 4px;
+}
+
+.donation-ticker-wrapper .new-donation {
+    display: none;
+}
