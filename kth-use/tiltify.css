@@ -1,0 +1,125 @@
+/* For Keys To Hearts members to use. Made by NoobProBeast. With general-use v1.0.2 Last changed on 5 May 2019 */
+
+.donation-title-wrapper .logo {
+    /* encoded selected logo at b64.io */
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAEwCAMAAADW546YAAAAUVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////8IN+deAAAAGnRSTlMAEB8gLzA/QE9QX2BvcH+Aj5CfoK+wv8/f798jwewAAA8qSURBVHgBzFv7lps+D8RxHW+AgOuPY+S8/4N+e3ZDGHCoLFb9neqvNOuMZqyLL9BGZMZ1Q0xE+fFpmeYUh5uTQZR40xPv8Y3nm79ktov0eGtzvNkT5LswH+G1Vpu9D+/Io9PgRHhj4vAUI+HG/Kgw6ivnzYxUhRd04uDTo9omr4uX2h/T78rJypRSjHFKiUqX1IrpZ5oXvCzCk9PPKbTO4ABz7UOqd+kTi/cRUtaQULpLw/Vo4HXbT9JB7ro9njnC69NGwrlaML/RW2+4JosaRsPhDSweaognJHhaIx2uVc0qwqT5n+PZmM/nEUxXHkz1WjesLMdmY+fwoAaDEa26BO6K1b8P8cvCcPNmL2Fdiix8nVi8CfDABjpTCbf8XrfvJyqWzKl328C/PL6+d69fxQ2e62OBR1Pv3+PlWy3/8UXuiuzj4XpM0b/N9vuzGb/GbfDCH/Bub9NhFPIfBLsJwkYRwCPgQTiNCG8QKfgfTpdk9QeXN1o8rvyzFG/yZRBCPf9kZO5QAngcx6KmbTVeWn8zLS44/r/3Ug10d4mEsPuDwQZ9Am+oi8G4T/97foiM2r3HLd7tx3hjDf9WFO2DuR5K/mZJ0DNB6KC3HdgN+ENDFBpZVID83Tk8t1PgufW3X9Lncc7yHRQA/y6fBBy3CrI9EEDoD/r3eY+DOt6XzeZPBTBAP1XwqMAfumf4Qyvyz96rwR8UaPAHBemwDAxBBUr4Mwo0+C8KgKY5WsEc+tNToIfnD5LIYgGgPxUFKnj3TRnAHh5yi579+qFiox5/TPx5U6vbDmtxPVBQoMYfE9+/q2PCQolKDvE8oGIJkyiVASCL0dBSgPx1ysBkDAEEYNBNIDwPKFk2sCBDCDymWHz8wxbehyBiAESA8/f9oOuSOJ97Z77uVknaicoQWNzjTQI0vGWwUUT/FxSgRELCEJgFAVqQl8RzAZDulvPuonAQhyBAziwrg5VWwFCe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);
+    background-size: cover;
+    height: 50px;
+    width: 31.5px; /* formula (height specified)/(height of image) * (width of image), 50 is specified, 60 is default */
+    margin-right: 80px;
+}
+
+.donation-title-wrapper .logo img {
+    margin-left: 50px;
+    height: 60px;
+}
+
+.dashboard-wrapper {
+    /* background-color: rgb(128, 128, 128); */ /*change colors with rgb/rgba or hex values */
+}
+
+.donation-progress-wrapper .progress-bar-wrapper {
+    width: 100px; /* width of the progress bar */
+}
+
+.donation-title-wrapper .title-card.campaign-name {
+    height: 50px;
+    width: 130px; /* width of your campaign name */
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.donation-ticker-wrapper .donation-name {
+    margin: 0px 10px;
+    line-height: normal;
+    width: 120px; /* donator's name, 120px fits most names */
+background-color: yellow;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.donation-title-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 0;
+    margin-left: 20px; /*increase this to give space between donation goal and campaign name */
+}
+
+.donation-title-wrapper .logo img {
+    margin: 0;
+    margin-left: 40px; /*increase this to give space between campaign name and logo */
+}
+
+.dashboard-wrapper {
+    display: flex;
+}
+
+.donation-progress-wrapper {
+    display: flex;
+}
+
+.donation-title-wrapper .logo {
+    display: flex;
+    align-items: center;
+}
+
+.donation-title-wrapper .charity-name {
+    top: 0;
+    text-align:left;
+}
+
+.donation-title-wrapper .cause-title {
+    top: 0;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.donation-ticker-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    float:none;
+   align-items: center;
+   justify-content: center;
+}
+
+.dashboard-wrapper .donation-card {
+    position: relative;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.dashboard-wrapper .last-donator-title, .dashboard-wrapper .top-donation-title {
+    position: relative;
+    top: 0;
+    right: 0;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    width: 85px;
+    font-size: 13px;
+}
+
+.donation-ticker-wrapper .donation-amount {
+    line-height: normal;
+}
+
+.donation-ticker-wrapper .latest-donation, .donation-ticker-wrapper .top-donation {
+    opacity: 1;
+    display: flex;
+}
+
+.donation-ticker-wrapper .latest-donation {
+    margin-bottom: 4px;
+}
+
+.donation-ticker-wrapper .new-donation {
+    display: none;
+}
