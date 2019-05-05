@@ -1,4 +1,8 @@
-/* For everyone to use. Made by NoobProBeast. v1.01 Last changed on 10 April 2019 */
+/* For everyone to use. Made by NoobProBeast. v1.0.2 Last changed on 5 May 2019 */
+
+.dashboard-wrapper {
+    /* background-color: rgb(128, 128, 128); */ /*change colors with rgb/rgba or hex values */
+}
 
 .donation-progress-wrapper .progress-bar-wrapper {
     width: 100px; /* width of the progress bar */
