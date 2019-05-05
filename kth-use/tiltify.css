@@ -35,8 +35,7 @@
     margin: 0px 10px;
     line-height: normal;
     width: 120px; /* donator's name, 120px fits most names */
-background-color: yellow;
-    overflow:hidden;
+    overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
     text-align: center;
